@@ -14,5 +14,8 @@ I'm currently a software engineer in training at ALX Africa. Interested in Web d
 
 ---
 [![](https://visitcount.itsvg.in/api?id=hawi-claire&icon=0&color=0)](https://visitcount.itsvg.in)
-
+[![](https://visitcount.itsvg.in/api?id=hawiclaire&label=Profile%20Views&color=11&icon=5&pretty=false)](https://visitcount.itsvg.in)
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=hawiclaire&label=Profile%20Views&color=11&icon=5&pretty=false" />
+</a>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
