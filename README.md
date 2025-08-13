@@ -1,5 +1,5 @@
 #  About Me:
-I'm currently a software engineer in training at ALX Africa. Interested in Web development, Devops, software Engineering and Artificial Intelligence.
+I'm currently a software engineer specialized in Front-end Web development. Interested in UI/UX design, Web development, system Devops, software Engineering and Artificial Intelligence.
 
 
 ##  Socials:
